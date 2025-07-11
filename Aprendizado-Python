@@ -1,3 +1,7 @@
 num = [1, 2, 3, 4, 5, 6, 7, 8 ,9, 10] // para criar lista
 for items in range(0, 10): //para acessar os itens em todas as posições
       print(num[items]) // escrever na tela enquanto a range for válida
+
+range >> informar parametros (inicio, fim, contador ou similar ex. -1, 4, 2, +2)
+f para formatar com {} dentro do print
+estudar conversão de valores horas > minutos, etc
